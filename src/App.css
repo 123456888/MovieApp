@@ -1,0 +1,56 @@
+.navOne {
+  font-size: 23px;
+  padding: 0 20px;
+  text-decoration: none;
+}
+
+.navbarOne {
+  background: linear-gradient(rgb(87, 84, 84), rgb(15, 15, 131));
+}
+
+.home {
+
+  width: 100%;
+  background: rgb(106, 106, 184);
+}
+
+.cardOne {
+  background: rgb(71, 71, 139);
+}
+
+.cardTwo {
+  color: rgb(250, 51, 51);
+}
+
+.navigateThree {
+  background: linear-gradient(blue, rgb(187, 178, 178));
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+
+.cardFive {
+  margin-left: 8%;
+  height: 80vh;
+  background: rgb(212, 211, 211);
+}
+
+.cardSix {
+  height: 40vh;
+  background: rgb(212, 211, 211);
+  margin-left: 5%;
+}
+
+.cardFour {
+  color: rgb(255, 115, 0);
+}
+
+.cardThree {
+  color: rgb(58, 70, 182);
+  font-size: 20px;
+}
+
+.ticket {
+  height: 110vh;
+  background: rgb(106, 106, 184);
+}
